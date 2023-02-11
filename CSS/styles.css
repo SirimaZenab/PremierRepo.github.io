@@ -2,3 +2,20 @@ h1
 {
     background-color: #f76868;
 }
+header nav
+{
+   float: right;
+   margin-top: 50px;
+}
+header nav ul li
+{
+  float: left;
+   /* background-color: #ff7a00; */
+   display: inline-block;
+}
+header nav ul li a
+{
+   text-transform: uppercase;
+   font-weight: bold;
+   margin-right: 20px;
+}
